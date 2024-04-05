@@ -1,0 +1,4100 @@
+('C:\\Users\\CGDM\\Desktop\\Miscellanous\\Decision '
+ 'Tree\\build\\final_code\\PYZ-00.pyz',
+ [('__future__',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\__future__.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\_compression.py',
+   'PYMODULE'),
+  ('_dummy_thread',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\_dummy_thread.py',
+   'PYMODULE'),
+  ('_osx_support',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\_osx_support.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\argparse.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\ast.py',
+   'PYMODULE'),
+  ('asyncio',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\base64.py',
+   'PYMODULE'),
+  ('bdb',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\bdb.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\bisect.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\bz2.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\calendar.py',
+   'PYMODULE'),
+  ('cmd',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\cmd.py',
+   'PYMODULE'),
+  ('code',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\codeop.py',
+   'PYMODULE'),
+  ('concurrent',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\contextvars.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\copy.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\csv.py',
+   'PYMODULE'),
+  ('ctypes',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._aix',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\ctypes\\_aix.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\dataclasses.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\datetime.py',
+   'PYMODULE'),
+  ('dateutil',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\dateutil\\__init__.py',
+   'PYMODULE'),
+  ('dateutil._common',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\dateutil\\_common.py',
+   'PYMODULE'),
+  ('dateutil._version',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\dateutil\\_version.py',
+   'PYMODULE'),
+  ('dateutil.easter',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\dateutil\\easter.py',
+   'PYMODULE'),
+  ('dateutil.parser',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\dateutil\\parser\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.parser._parser',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\dateutil\\parser\\_parser.py',
+   'PYMODULE'),
+  ('dateutil.parser.isoparser',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\dateutil\\parser\\isoparser.py',
+   'PYMODULE'),
+  ('dateutil.relativedelta',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\dateutil\\relativedelta.py',
+   'PYMODULE'),
+  ('dateutil.rrule',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\dateutil\\rrule.py',
+   'PYMODULE'),
+  ('dateutil.tz',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\dateutil\\tz\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.tz._common',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\dateutil\\tz\\_common.py',
+   'PYMODULE'),
+  ('dateutil.tz._factories',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\dateutil\\tz\\_factories.py',
+   'PYMODULE'),
+  ('dateutil.tz.tz',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\dateutil\\tz\\tz.py',
+   'PYMODULE'),
+  ('dateutil.tz.win',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\dateutil\\tz\\win.py',
+   'PYMODULE'),
+  ('dateutil.zoneinfo',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\dateutil\\zoneinfo\\__init__.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\decimal.py',
+   'PYMODULE'),
+  ('difflib',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\difflib.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\dis.py',
+   'PYMODULE'),
+  ('distutils',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('distutils.debug',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\distutils\\debug.py',
+   'PYMODULE'),
+  ('distutils.dep_util',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\distutils\\dep_util.py',
+   'PYMODULE'),
+  ('distutils.dir_util',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\distutils\\dir_util.py',
+   'PYMODULE'),
+  ('distutils.errors',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\distutils\\errors.py',
+   'PYMODULE'),
+  ('distutils.file_util',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\distutils\\file_util.py',
+   'PYMODULE'),
+  ('distutils.filelist',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\distutils\\filelist.py',
+   'PYMODULE'),
+  ('distutils.log',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\distutils\\log.py',
+   'PYMODULE'),
+  ('distutils.spawn',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\distutils\\spawn.py',
+   'PYMODULE'),
+  ('distutils.sysconfig',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('distutils.text_file',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\distutils\\text_file.py',
+   'PYMODULE'),
+  ('distutils.util',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\distutils\\util.py',
+   'PYMODULE'),
+  ('doctest',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\doctest.py',
+   'PYMODULE'),
+  ('dummy_threading',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\dummy_threading.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\fractions.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\getopt.py',
+   'PYMODULE'),
+  ('getpass',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\getpass.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\gettext.py',
+   'PYMODULE'),
+  ('glob',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\glob.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\gzip.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('hmac',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\hmac.py',
+   'PYMODULE'),
+  ('html',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http.server',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('imp',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\imp.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\inspect.py',
+   'PYMODULE'),
+  ('joblib',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\joblib\\__init__.py',
+   'PYMODULE'),
+  ('joblib._cloudpickle_wrapper',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\joblib\\_cloudpickle_wrapper.py',
+   'PYMODULE'),
+  ('joblib._dask',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\joblib\\_dask.py',
+   'PYMODULE'),
+  ('joblib._memmapping_reducer',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\joblib\\_memmapping_reducer.py',
+   'PYMODULE'),
+  ('joblib._multiprocessing_helpers',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\joblib\\_multiprocessing_helpers.py',
+   'PYMODULE'),
+  ('joblib._parallel_backends',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\joblib\\_parallel_backends.py',
+   'PYMODULE'),
+  ('joblib._store_backends',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\joblib\\_store_backends.py',
+   'PYMODULE'),
+  ('joblib._utils',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\joblib\\_utils.py',
+   'PYMODULE'),
+  ('joblib.backports',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\joblib\\backports.py',
+   'PYMODULE'),
+  ('joblib.compressor',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\joblib\\compressor.py',
+   'PYMODULE'),
+  ('joblib.disk',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\joblib\\disk.py',
+   'PYMODULE'),
+  ('joblib.executor',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\joblib\\executor.py',
+   'PYMODULE'),
+  ('joblib.externals',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\joblib\\externals\\__init__.py',
+   'PYMODULE'),
+  ('joblib.externals.cloudpickle',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\joblib\\externals\\cloudpickle\\__init__.py',
+   'PYMODULE'),
+  ('joblib.externals.cloudpickle.cloudpickle',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\joblib\\externals\\cloudpickle\\cloudpickle.py',
+   'PYMODULE'),
+  ('joblib.externals.cloudpickle.cloudpickle_fast',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\joblib\\externals\\cloudpickle\\cloudpickle_fast.py',
+   'PYMODULE'),
+  ('joblib.externals.cloudpickle.compat',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\joblib\\externals\\cloudpickle\\compat.py',
+   'PYMODULE'),
+  ('joblib.externals.loky',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\joblib\\externals\\loky\\__init__.py',
+   'PYMODULE'),
+  ('joblib.externals.loky._base',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\joblib\\externals\\loky\\_base.py',
+   'PYMODULE'),
+  ('joblib.externals.loky.backend',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\joblib\\externals\\loky\\backend\\__init__.py',
+   'PYMODULE'),
+  ('joblib.externals.loky.backend._posix_reduction',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\joblib\\externals\\loky\\backend\\_posix_reduction.py',
+   'PYMODULE'),
+  ('joblib.externals.loky.backend._win_reduction',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\joblib\\externals\\loky\\backend\\_win_reduction.py',
+   'PYMODULE'),
+  ('joblib.externals.loky.backend.context',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\joblib\\externals\\loky\\backend\\context.py',
+   'PYMODULE'),
+  ('joblib.externals.loky.backend.fork_exec',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\joblib\\externals\\loky\\backend\\fork_exec.py',
+   'PYMODULE'),
+  ('joblib.externals.loky.backend.popen_loky_posix',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\joblib\\externals\\loky\\backend\\popen_loky_posix.py',
+   'PYMODULE'),
+  ('joblib.externals.loky.backend.popen_loky_win32',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\joblib\\externals\\loky\\backend\\popen_loky_win32.py',
+   'PYMODULE'),
+  ('joblib.externals.loky.backend.process',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\joblib\\externals\\loky\\backend\\process.py',
+   'PYMODULE'),
+  ('joblib.externals.loky.backend.queues',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\joblib\\externals\\loky\\backend\\queues.py',
+   'PYMODULE'),
+  ('joblib.externals.loky.backend.reduction',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\joblib\\externals\\loky\\backend\\reduction.py',
+   'PYMODULE'),
+  ('joblib.externals.loky.backend.resource_tracker',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\joblib\\externals\\loky\\backend\\resource_tracker.py',
+   'PYMODULE'),
+  ('joblib.externals.loky.backend.spawn',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\joblib\\externals\\loky\\backend\\spawn.py',
+   'PYMODULE'),
+  ('joblib.externals.loky.backend.synchronize',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\joblib\\externals\\loky\\backend\\synchronize.py',
+   'PYMODULE'),
+  ('joblib.externals.loky.backend.utils',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\joblib\\externals\\loky\\backend\\utils.py',
+   'PYMODULE'),
+  ('joblib.externals.loky.cloudpickle_wrapper',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\joblib\\externals\\loky\\cloudpickle_wrapper.py',
+   'PYMODULE'),
+  ('joblib.externals.loky.initializers',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\joblib\\externals\\loky\\initializers.py',
+   'PYMODULE'),
+  ('joblib.externals.loky.process_executor',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\joblib\\externals\\loky\\process_executor.py',
+   'PYMODULE'),
+  ('joblib.externals.loky.reusable_executor',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\joblib\\externals\\loky\\reusable_executor.py',
+   'PYMODULE'),
+  ('joblib.func_inspect',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\joblib\\func_inspect.py',
+   'PYMODULE'),
+  ('joblib.hashing',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\joblib\\hashing.py',
+   'PYMODULE'),
+  ('joblib.logger',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\joblib\\logger.py',
+   'PYMODULE'),
+  ('joblib.memory',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\joblib\\memory.py',
+   'PYMODULE'),
+  ('joblib.numpy_pickle',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\joblib\\numpy_pickle.py',
+   'PYMODULE'),
+  ('joblib.numpy_pickle_compat',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\joblib\\numpy_pickle_compat.py',
+   'PYMODULE'),
+  ('joblib.numpy_pickle_utils',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\joblib\\numpy_pickle_utils.py',
+   'PYMODULE'),
+  ('joblib.parallel',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\joblib\\parallel.py',
+   'PYMODULE'),
+  ('joblib.pool',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\joblib\\pool.py',
+   'PYMODULE'),
+  ('json',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\lzma.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.semaphore_tracker',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\multiprocessing\\semaphore_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\netrc.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\numbers.py',
+   'PYMODULE'),
+  ('numpy',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('numpy.__config__',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\__config__.py',
+   'PYMODULE'),
+  ('numpy._distributor_init',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\_distributor_init.py',
+   'PYMODULE'),
+  ('numpy._globals',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\_globals.py',
+   'PYMODULE'),
+  ('numpy._pytesttester',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\_pytesttester.py',
+   'PYMODULE'),
+  ('numpy._version',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\_version.py',
+   'PYMODULE'),
+  ('numpy.compat',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\compat\\__init__.py',
+   'PYMODULE'),
+  ('numpy.compat._inspect',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\compat\\_inspect.py',
+   'PYMODULE'),
+  ('numpy.compat.py3k',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\compat\\py3k.py',
+   'PYMODULE'),
+  ('numpy.core',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\core\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core._add_newdocs',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\core\\_add_newdocs.py',
+   'PYMODULE'),
+  ('numpy.core._add_newdocs_scalars',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\core\\_add_newdocs_scalars.py',
+   'PYMODULE'),
+  ('numpy.core._asarray',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\core\\_asarray.py',
+   'PYMODULE'),
+  ('numpy.core._dtype',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\core\\_dtype.py',
+   'PYMODULE'),
+  ('numpy.core._dtype_ctypes',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\core\\_dtype_ctypes.py',
+   'PYMODULE'),
+  ('numpy.core._exceptions',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\core\\_exceptions.py',
+   'PYMODULE'),
+  ('numpy.core._internal',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\core\\_internal.py',
+   'PYMODULE'),
+  ('numpy.core._methods',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\core\\_methods.py',
+   'PYMODULE'),
+  ('numpy.core._string_helpers',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\core\\_string_helpers.py',
+   'PYMODULE'),
+  ('numpy.core._type_aliases',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\core\\_type_aliases.py',
+   'PYMODULE'),
+  ('numpy.core._ufunc_config',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\core\\_ufunc_config.py',
+   'PYMODULE'),
+  ('numpy.core.arrayprint',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\core\\arrayprint.py',
+   'PYMODULE'),
+  ('numpy.core.defchararray',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\core\\defchararray.py',
+   'PYMODULE'),
+  ('numpy.core.einsumfunc',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\core\\einsumfunc.py',
+   'PYMODULE'),
+  ('numpy.core.fromnumeric',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\core\\fromnumeric.py',
+   'PYMODULE'),
+  ('numpy.core.function_base',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\core\\function_base.py',
+   'PYMODULE'),
+  ('numpy.core.getlimits',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\core\\getlimits.py',
+   'PYMODULE'),
+  ('numpy.core.machar',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\core\\machar.py',
+   'PYMODULE'),
+  ('numpy.core.memmap',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\core\\memmap.py',
+   'PYMODULE'),
+  ('numpy.core.multiarray',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\core\\multiarray.py',
+   'PYMODULE'),
+  ('numpy.core.numeric',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\core\\numeric.py',
+   'PYMODULE'),
+  ('numpy.core.numerictypes',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\core\\numerictypes.py',
+   'PYMODULE'),
+  ('numpy.core.overrides',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\core\\overrides.py',
+   'PYMODULE'),
+  ('numpy.core.records',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\core\\records.py',
+   'PYMODULE'),
+  ('numpy.core.shape_base',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\core\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.core.umath',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\core\\umath.py',
+   'PYMODULE'),
+  ('numpy.ctypeslib',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\ctypeslib.py',
+   'PYMODULE'),
+  ('numpy.distutils',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('numpy.distutils.cpuinfo',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\distutils\\cpuinfo.py',
+   'PYMODULE'),
+  ('numpy.fft',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\fft\\__init__.py',
+   'PYMODULE'),
+  ('numpy.fft._pocketfft',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\fft\\_pocketfft.py',
+   'PYMODULE'),
+  ('numpy.fft.helper',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\fft\\helper.py',
+   'PYMODULE'),
+  ('numpy.lib',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\lib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.lib._datasource',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\lib\\_datasource.py',
+   'PYMODULE'),
+  ('numpy.lib._iotools',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\lib\\_iotools.py',
+   'PYMODULE'),
+  ('numpy.lib._version',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\lib\\_version.py',
+   'PYMODULE'),
+  ('numpy.lib.arraypad',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\lib\\arraypad.py',
+   'PYMODULE'),
+  ('numpy.lib.arraysetops',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\lib\\arraysetops.py',
+   'PYMODULE'),
+  ('numpy.lib.arrayterator',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\lib\\arrayterator.py',
+   'PYMODULE'),
+  ('numpy.lib.format',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\lib\\format.py',
+   'PYMODULE'),
+  ('numpy.lib.function_base',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\lib\\function_base.py',
+   'PYMODULE'),
+  ('numpy.lib.histograms',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\lib\\histograms.py',
+   'PYMODULE'),
+  ('numpy.lib.index_tricks',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\lib\\index_tricks.py',
+   'PYMODULE'),
+  ('numpy.lib.mixins',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\lib\\mixins.py',
+   'PYMODULE'),
+  ('numpy.lib.nanfunctions',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\lib\\nanfunctions.py',
+   'PYMODULE'),
+  ('numpy.lib.npyio',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\lib\\npyio.py',
+   'PYMODULE'),
+  ('numpy.lib.polynomial',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\lib\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.lib.scimath',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\lib\\scimath.py',
+   'PYMODULE'),
+  ('numpy.lib.shape_base',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\lib\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.lib.stride_tricks',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\lib\\stride_tricks.py',
+   'PYMODULE'),
+  ('numpy.lib.twodim_base',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\lib\\twodim_base.py',
+   'PYMODULE'),
+  ('numpy.lib.type_check',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\lib\\type_check.py',
+   'PYMODULE'),
+  ('numpy.lib.ufunclike',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\lib\\ufunclike.py',
+   'PYMODULE'),
+  ('numpy.lib.utils',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\lib\\utils.py',
+   'PYMODULE'),
+  ('numpy.linalg',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\linalg\\__init__.py',
+   'PYMODULE'),
+  ('numpy.linalg.linalg',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\linalg\\linalg.py',
+   'PYMODULE'),
+  ('numpy.ma',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\ma\\__init__.py',
+   'PYMODULE'),
+  ('numpy.ma.core',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\ma\\core.py',
+   'PYMODULE'),
+  ('numpy.ma.extras',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\ma\\extras.py',
+   'PYMODULE'),
+  ('numpy.ma.mrecords',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\ma\\mrecords.py',
+   'PYMODULE'),
+  ('numpy.matrixlib',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\matrixlib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.matrixlib.defmatrix',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\matrixlib\\defmatrix.py',
+   'PYMODULE'),
+  ('numpy.polynomial',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\polynomial\\__init__.py',
+   'PYMODULE'),
+  ('numpy.polynomial._polybase',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\polynomial\\_polybase.py',
+   'PYMODULE'),
+  ('numpy.polynomial.chebyshev',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\polynomial\\chebyshev.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\polynomial\\hermite.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite_e',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\polynomial\\hermite_e.py',
+   'PYMODULE'),
+  ('numpy.polynomial.laguerre',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\polynomial\\laguerre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.legendre',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\polynomial\\legendre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polynomial',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\polynomial\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polyutils',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\polynomial\\polyutils.py',
+   'PYMODULE'),
+  ('numpy.random',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\random\\__init__.py',
+   'PYMODULE'),
+  ('numpy.random._pickle',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\random\\_pickle.py',
+   'PYMODULE'),
+  ('numpy.testing',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\testing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\testing\\_private\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.decorators',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\testing\\_private\\decorators.py',
+   'PYMODULE'),
+  ('numpy.testing._private.noseclasses',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\testing\\_private\\noseclasses.py',
+   'PYMODULE'),
+  ('numpy.testing._private.nosetester',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\testing\\_private\\nosetester.py',
+   'PYMODULE'),
+  ('numpy.testing._private.parameterized',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\testing\\_private\\parameterized.py',
+   'PYMODULE'),
+  ('numpy.testing._private.utils',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\testing\\_private\\utils.py',
+   'PYMODULE'),
+  ('numpy.typing',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\typing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.typing._add_docstring',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\typing\\_add_docstring.py',
+   'PYMODULE'),
+  ('numpy.typing._array_like',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\typing\\_array_like.py',
+   'PYMODULE'),
+  ('numpy.typing._char_codes',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\typing\\_char_codes.py',
+   'PYMODULE'),
+  ('numpy.typing._dtype_like',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\typing\\_dtype_like.py',
+   'PYMODULE'),
+  ('numpy.typing._generic_alias',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\typing\\_generic_alias.py',
+   'PYMODULE'),
+  ('numpy.typing._nbit',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\typing\\_nbit.py',
+   'PYMODULE'),
+  ('numpy.typing._scalars',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\typing\\_scalars.py',
+   'PYMODULE'),
+  ('numpy.typing._shape',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\typing\\_shape.py',
+   'PYMODULE'),
+  ('numpy.version',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\numpy\\version.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\opcode.py',
+   'PYMODULE'),
+  ('optparse',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\optparse.py',
+   'PYMODULE'),
+  ('packaging',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('packaging._elffile',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('packaging._manylinux',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('packaging._musllinux',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('packaging._parser',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('packaging._structures',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('packaging._tokenizer',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('packaging.markers',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\packaging\\markers.py',
+   'PYMODULE'),
+  ('packaging.metadata',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\packaging\\metadata.py',
+   'PYMODULE'),
+  ('packaging.requirements',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('packaging.specifiers',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('packaging.tags',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\packaging\\tags.py',
+   'PYMODULE'),
+  ('packaging.utils',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\packaging\\utils.py',
+   'PYMODULE'),
+  ('packaging.version',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\packaging\\version.py',
+   'PYMODULE'),
+  ('pandas',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\__init__.py',
+   'PYMODULE'),
+  ('pandas._config',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\_config\\__init__.py',
+   'PYMODULE'),
+  ('pandas._config.config',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\_config\\config.py',
+   'PYMODULE'),
+  ('pandas._config.dates',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\_config\\dates.py',
+   'PYMODULE'),
+  ('pandas._config.display',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\_config\\display.py',
+   'PYMODULE'),
+  ('pandas._config.localization',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\_config\\localization.py',
+   'PYMODULE'),
+  ('pandas._libs',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\_libs\\__init__.py',
+   'PYMODULE'),
+  ('pandas._libs.tslibs',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\_libs\\tslibs\\__init__.py',
+   'PYMODULE'),
+  ('pandas._libs.window',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\_libs\\window\\__init__.py',
+   'PYMODULE'),
+  ('pandas._testing',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\_testing\\__init__.py',
+   'PYMODULE'),
+  ('pandas._testing._io',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\_testing\\_io.py',
+   'PYMODULE'),
+  ('pandas._testing._random',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\_testing\\_random.py',
+   'PYMODULE'),
+  ('pandas._testing._warnings',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\_testing\\_warnings.py',
+   'PYMODULE'),
+  ('pandas._testing.asserters',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\_testing\\asserters.py',
+   'PYMODULE'),
+  ('pandas._testing.compat',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\_testing\\compat.py',
+   'PYMODULE'),
+  ('pandas._testing.contexts',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\_testing\\contexts.py',
+   'PYMODULE'),
+  ('pandas._typing',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\_typing.py',
+   'PYMODULE'),
+  ('pandas._version',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\_version.py',
+   'PYMODULE'),
+  ('pandas.api',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\api\\__init__.py',
+   'PYMODULE'),
+  ('pandas.api.extensions',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\api\\extensions\\__init__.py',
+   'PYMODULE'),
+  ('pandas.api.indexers',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\api\\indexers\\__init__.py',
+   'PYMODULE'),
+  ('pandas.api.types',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\api\\types\\__init__.py',
+   'PYMODULE'),
+  ('pandas.arrays',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\arrays\\__init__.py',
+   'PYMODULE'),
+  ('pandas.compat',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\compat\\__init__.py',
+   'PYMODULE'),
+  ('pandas.compat._optional',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\compat\\_optional.py',
+   'PYMODULE'),
+  ('pandas.compat.chainmap',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\compat\\chainmap.py',
+   'PYMODULE'),
+  ('pandas.compat.numpy',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\compat\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('pandas.compat.numpy.function',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\compat\\numpy\\function.py',
+   'PYMODULE'),
+  ('pandas.compat.pickle_compat',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\compat\\pickle_compat.py',
+   'PYMODULE'),
+  ('pandas.compat.pyarrow',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\compat\\pyarrow.py',
+   'PYMODULE'),
+  ('pandas.core',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.accessor',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\accessor.py',
+   'PYMODULE'),
+  ('pandas.core.aggregation',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\aggregation.py',
+   'PYMODULE'),
+  ('pandas.core.algorithms',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\algorithms.py',
+   'PYMODULE'),
+  ('pandas.core.api',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\api.py',
+   'PYMODULE'),
+  ('pandas.core.apply',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\apply.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\array_algos\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.masked_reductions',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\array_algos\\masked_reductions.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.putmask',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\array_algos\\putmask.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.quantile',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\array_algos\\quantile.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.replace',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\array_algos\\replace.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.take',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\array_algos\\take.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.transforms',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\array_algos\\transforms.py',
+   'PYMODULE'),
+  ('pandas.core.arraylike',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\arraylike.py',
+   'PYMODULE'),
+  ('pandas.core.arrays',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\arrays\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.arrays._arrow_utils',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\arrays\\_arrow_utils.py',
+   'PYMODULE'),
+  ('pandas.core.arrays._mixins',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\arrays\\_mixins.py',
+   'PYMODULE'),
+  ('pandas.core.arrays._ranges',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\arrays\\_ranges.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.base',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\arrays\\base.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.boolean',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\arrays\\boolean.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.categorical',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\arrays\\categorical.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.datetimelike',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\arrays\\datetimelike.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.datetimes',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\arrays\\datetimes.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.floating',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\arrays\\floating.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.integer',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\arrays\\integer.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.interval',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\arrays\\interval.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.masked',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\arrays\\masked.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.numeric',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\arrays\\numeric.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.numpy_',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\arrays\\numpy_.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.period',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\arrays\\period.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\arrays\\sparse\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse.accessor',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\arrays\\sparse\\accessor.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse.array',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\arrays\\sparse\\array.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse.dtype',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\arrays\\sparse\\dtype.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse.scipy_sparse',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\arrays\\sparse\\scipy_sparse.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.string_',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\arrays\\string_.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.string_arrow',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\arrays\\string_arrow.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.timedeltas',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\arrays\\timedeltas.py',
+   'PYMODULE'),
+  ('pandas.core.base',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\base.py',
+   'PYMODULE'),
+  ('pandas.core.common',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\common.py',
+   'PYMODULE'),
+  ('pandas.core.computation',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\computation\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.computation.align',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\computation\\align.py',
+   'PYMODULE'),
+  ('pandas.core.computation.api',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\computation\\api.py',
+   'PYMODULE'),
+  ('pandas.core.computation.check',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\computation\\check.py',
+   'PYMODULE'),
+  ('pandas.core.computation.common',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\computation\\common.py',
+   'PYMODULE'),
+  ('pandas.core.computation.engines',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\computation\\engines.py',
+   'PYMODULE'),
+  ('pandas.core.computation.eval',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\computation\\eval.py',
+   'PYMODULE'),
+  ('pandas.core.computation.expr',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\computation\\expr.py',
+   'PYMODULE'),
+  ('pandas.core.computation.expressions',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\computation\\expressions.py',
+   'PYMODULE'),
+  ('pandas.core.computation.ops',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\computation\\ops.py',
+   'PYMODULE'),
+  ('pandas.core.computation.parsing',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\computation\\parsing.py',
+   'PYMODULE'),
+  ('pandas.core.computation.pytables',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\computation\\pytables.py',
+   'PYMODULE'),
+  ('pandas.core.computation.scope',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\computation\\scope.py',
+   'PYMODULE'),
+  ('pandas.core.config_init',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\config_init.py',
+   'PYMODULE'),
+  ('pandas.core.construction',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\construction.py',
+   'PYMODULE'),
+  ('pandas.core.describe',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\describe.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\dtypes\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.api',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\dtypes\\api.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.base',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\dtypes\\base.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.cast',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\dtypes\\cast.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.common',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\dtypes\\common.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.concat',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\dtypes\\concat.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.dtypes',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\dtypes\\dtypes.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.generic',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\dtypes\\generic.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.inference',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\dtypes\\inference.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.missing',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\dtypes\\missing.py',
+   'PYMODULE'),
+  ('pandas.core.flags',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\flags.py',
+   'PYMODULE'),
+  ('pandas.core.frame',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\frame.py',
+   'PYMODULE'),
+  ('pandas.core.generic',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\generic.py',
+   'PYMODULE'),
+  ('pandas.core.groupby',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\groupby\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.base',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\groupby\\base.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.categorical',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\groupby\\categorical.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.generic',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\groupby\\generic.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.groupby',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\groupby\\groupby.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.grouper',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\groupby\\grouper.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.numba_',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\groupby\\numba_.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.ops',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\groupby\\ops.py',
+   'PYMODULE'),
+  ('pandas.core.indexers',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\indexers.py',
+   'PYMODULE'),
+  ('pandas.core.indexes',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\indexes\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.accessors',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\indexes\\accessors.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.api',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\indexes\\api.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.base',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\indexes\\base.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.category',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\indexes\\category.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.datetimelike',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\indexes\\datetimelike.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.datetimes',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\indexes\\datetimes.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.extension',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\indexes\\extension.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.frozen',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\indexes\\frozen.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.interval',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\indexes\\interval.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.multi',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\indexes\\multi.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.numeric',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\indexes\\numeric.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.period',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\indexes\\period.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.range',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\indexes\\range.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.timedeltas',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\indexes\\timedeltas.py',
+   'PYMODULE'),
+  ('pandas.core.indexing',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\indexing.py',
+   'PYMODULE'),
+  ('pandas.core.internals',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\internals\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.internals.api',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\internals\\api.py',
+   'PYMODULE'),
+  ('pandas.core.internals.array_manager',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\internals\\array_manager.py',
+   'PYMODULE'),
+  ('pandas.core.internals.base',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\internals\\base.py',
+   'PYMODULE'),
+  ('pandas.core.internals.blocks',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\internals\\blocks.py',
+   'PYMODULE'),
+  ('pandas.core.internals.concat',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\internals\\concat.py',
+   'PYMODULE'),
+  ('pandas.core.internals.construction',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\internals\\construction.py',
+   'PYMODULE'),
+  ('pandas.core.internals.managers',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\internals\\managers.py',
+   'PYMODULE'),
+  ('pandas.core.internals.ops',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\internals\\ops.py',
+   'PYMODULE'),
+  ('pandas.core.missing',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\missing.py',
+   'PYMODULE'),
+  ('pandas.core.nanops',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\nanops.py',
+   'PYMODULE'),
+  ('pandas.core.ops',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\ops\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.ops.array_ops',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\ops\\array_ops.py',
+   'PYMODULE'),
+  ('pandas.core.ops.common',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\ops\\common.py',
+   'PYMODULE'),
+  ('pandas.core.ops.dispatch',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\ops\\dispatch.py',
+   'PYMODULE'),
+  ('pandas.core.ops.docstrings',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\ops\\docstrings.py',
+   'PYMODULE'),
+  ('pandas.core.ops.invalid',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\ops\\invalid.py',
+   'PYMODULE'),
+  ('pandas.core.ops.mask_ops',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\ops\\mask_ops.py',
+   'PYMODULE'),
+  ('pandas.core.ops.methods',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\ops\\methods.py',
+   'PYMODULE'),
+  ('pandas.core.ops.missing',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\ops\\missing.py',
+   'PYMODULE'),
+  ('pandas.core.resample',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\resample.py',
+   'PYMODULE'),
+  ('pandas.core.reshape',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\reshape\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.api',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\reshape\\api.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.concat',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\reshape\\concat.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.melt',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\reshape\\melt.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.merge',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\reshape\\merge.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.pivot',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\reshape\\pivot.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.reshape',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\reshape\\reshape.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.tile',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\reshape\\tile.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.util',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\reshape\\util.py',
+   'PYMODULE'),
+  ('pandas.core.roperator',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\roperator.py',
+   'PYMODULE'),
+  ('pandas.core.series',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\series.py',
+   'PYMODULE'),
+  ('pandas.core.shared_docs',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\shared_docs.py',
+   'PYMODULE'),
+  ('pandas.core.sorting',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\sorting.py',
+   'PYMODULE'),
+  ('pandas.core.strings',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\strings\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.strings.accessor',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\strings\\accessor.py',
+   'PYMODULE'),
+  ('pandas.core.strings.base',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\strings\\base.py',
+   'PYMODULE'),
+  ('pandas.core.strings.object_array',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\strings\\object_array.py',
+   'PYMODULE'),
+  ('pandas.core.tools',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\tools\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.tools.datetimes',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\tools\\datetimes.py',
+   'PYMODULE'),
+  ('pandas.core.tools.numeric',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\tools\\numeric.py',
+   'PYMODULE'),
+  ('pandas.core.tools.timedeltas',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\tools\\timedeltas.py',
+   'PYMODULE'),
+  ('pandas.core.tools.times',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\tools\\times.py',
+   'PYMODULE'),
+  ('pandas.core.util',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\util\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.util.hashing',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\util\\hashing.py',
+   'PYMODULE'),
+  ('pandas.core.util.numba_',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\util\\numba_.py',
+   'PYMODULE'),
+  ('pandas.core.window',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\window\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.window.common',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\window\\common.py',
+   'PYMODULE'),
+  ('pandas.core.window.doc',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\window\\doc.py',
+   'PYMODULE'),
+  ('pandas.core.window.ewm',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\window\\ewm.py',
+   'PYMODULE'),
+  ('pandas.core.window.expanding',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\window\\expanding.py',
+   'PYMODULE'),
+  ('pandas.core.window.indexers',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\window\\indexers.py',
+   'PYMODULE'),
+  ('pandas.core.window.numba_',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\window\\numba_.py',
+   'PYMODULE'),
+  ('pandas.core.window.online',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\window\\online.py',
+   'PYMODULE'),
+  ('pandas.core.window.rolling',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\core\\window\\rolling.py',
+   'PYMODULE'),
+  ('pandas.errors',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\errors\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\io\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.api',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\io\\api.py',
+   'PYMODULE'),
+  ('pandas.io.clipboard',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\io\\clipboard\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.clipboards',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\io\\clipboards.py',
+   'PYMODULE'),
+  ('pandas.io.common',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\io\\common.py',
+   'PYMODULE'),
+  ('pandas.io.date_converters',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\io\\date_converters.py',
+   'PYMODULE'),
+  ('pandas.io.excel',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\io\\excel\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.excel._base',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\io\\excel\\_base.py',
+   'PYMODULE'),
+  ('pandas.io.excel._odfreader',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\io\\excel\\_odfreader.py',
+   'PYMODULE'),
+  ('pandas.io.excel._odswriter',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\io\\excel\\_odswriter.py',
+   'PYMODULE'),
+  ('pandas.io.excel._openpyxl',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\io\\excel\\_openpyxl.py',
+   'PYMODULE'),
+  ('pandas.io.excel._pyxlsb',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\io\\excel\\_pyxlsb.py',
+   'PYMODULE'),
+  ('pandas.io.excel._util',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\io\\excel\\_util.py',
+   'PYMODULE'),
+  ('pandas.io.excel._xlrd',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\io\\excel\\_xlrd.py',
+   'PYMODULE'),
+  ('pandas.io.excel._xlsxwriter',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\io\\excel\\_xlsxwriter.py',
+   'PYMODULE'),
+  ('pandas.io.excel._xlwt',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\io\\excel\\_xlwt.py',
+   'PYMODULE'),
+  ('pandas.io.feather_format',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\io\\feather_format.py',
+   'PYMODULE'),
+  ('pandas.io.formats',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\io\\formats\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.formats._color_data',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\io\\formats\\_color_data.py',
+   'PYMODULE'),
+  ('pandas.io.formats.console',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\io\\formats\\console.py',
+   'PYMODULE'),
+  ('pandas.io.formats.css',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\io\\formats\\css.py',
+   'PYMODULE'),
+  ('pandas.io.formats.csvs',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\io\\formats\\csvs.py',
+   'PYMODULE'),
+  ('pandas.io.formats.excel',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\io\\formats\\excel.py',
+   'PYMODULE'),
+  ('pandas.io.formats.format',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\io\\formats\\format.py',
+   'PYMODULE'),
+  ('pandas.io.formats.html',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\io\\formats\\html.py',
+   'PYMODULE'),
+  ('pandas.io.formats.info',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\io\\formats\\info.py',
+   'PYMODULE'),
+  ('pandas.io.formats.latex',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\io\\formats\\latex.py',
+   'PYMODULE'),
+  ('pandas.io.formats.printing',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\io\\formats\\printing.py',
+   'PYMODULE'),
+  ('pandas.io.formats.string',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\io\\formats\\string.py',
+   'PYMODULE'),
+  ('pandas.io.formats.style',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\io\\formats\\style.py',
+   'PYMODULE'),
+  ('pandas.io.formats.style_render',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\io\\formats\\style_render.py',
+   'PYMODULE'),
+  ('pandas.io.formats.xml',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\io\\formats\\xml.py',
+   'PYMODULE'),
+  ('pandas.io.gbq',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\io\\gbq.py',
+   'PYMODULE'),
+  ('pandas.io.html',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\io\\html.py',
+   'PYMODULE'),
+  ('pandas.io.json',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\io\\json\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.json._json',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\io\\json\\_json.py',
+   'PYMODULE'),
+  ('pandas.io.json._normalize',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\io\\json\\_normalize.py',
+   'PYMODULE'),
+  ('pandas.io.json._table_schema',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\io\\json\\_table_schema.py',
+   'PYMODULE'),
+  ('pandas.io.orc',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\io\\orc.py',
+   'PYMODULE'),
+  ('pandas.io.parquet',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\io\\parquet.py',
+   'PYMODULE'),
+  ('pandas.io.parsers',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\io\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.base_parser',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\io\\parsers\\base_parser.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.c_parser_wrapper',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\io\\parsers\\c_parser_wrapper.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.python_parser',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\io\\parsers\\python_parser.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.readers',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\io\\parsers\\readers.py',
+   'PYMODULE'),
+  ('pandas.io.pickle',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\io\\pickle.py',
+   'PYMODULE'),
+  ('pandas.io.pytables',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\io\\pytables.py',
+   'PYMODULE'),
+  ('pandas.io.sas',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\io\\sas\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sas7bdat',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\io\\sas\\sas7bdat.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sas_constants',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\io\\sas\\sas_constants.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sas_xport',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\io\\sas\\sas_xport.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sasreader',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\io\\sas\\sasreader.py',
+   'PYMODULE'),
+  ('pandas.io.spss',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\io\\spss.py',
+   'PYMODULE'),
+  ('pandas.io.sql',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\io\\sql.py',
+   'PYMODULE'),
+  ('pandas.io.stata',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\io\\stata.py',
+   'PYMODULE'),
+  ('pandas.io.xml',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\io\\xml.py',
+   'PYMODULE'),
+  ('pandas.plotting',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\plotting\\__init__.py',
+   'PYMODULE'),
+  ('pandas.plotting._core',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\plotting\\_core.py',
+   'PYMODULE'),
+  ('pandas.plotting._misc',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\plotting\\_misc.py',
+   'PYMODULE'),
+  ('pandas.testing',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\testing.py',
+   'PYMODULE'),
+  ('pandas.tseries',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\tseries\\__init__.py',
+   'PYMODULE'),
+  ('pandas.tseries.api',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\tseries\\api.py',
+   'PYMODULE'),
+  ('pandas.tseries.frequencies',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\tseries\\frequencies.py',
+   'PYMODULE'),
+  ('pandas.tseries.offsets',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\tseries\\offsets.py',
+   'PYMODULE'),
+  ('pandas.util',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\util\\__init__.py',
+   'PYMODULE'),
+  ('pandas.util._decorators',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\util\\_decorators.py',
+   'PYMODULE'),
+  ('pandas.util._exceptions',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\util\\_exceptions.py',
+   'PYMODULE'),
+  ('pandas.util._print_versions',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\util\\_print_versions.py',
+   'PYMODULE'),
+  ('pandas.util._tester',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\util\\_tester.py',
+   'PYMODULE'),
+  ('pandas.util._validators',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\util\\_validators.py',
+   'PYMODULE'),
+  ('pandas.util.testing',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\util\\testing.py',
+   'PYMODULE'),
+  ('pandas.util.version',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pandas\\util\\version\\__init__.py',
+   'PYMODULE'),
+  ('pdb',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\pdb.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pkg_resources',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pkg_resources\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.appdirs',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\appdirs.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.__about__',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._compat',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_compat.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._structures',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._typing',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_typing.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.markers',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.requirements',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.specifiers',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.tags',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.utils',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.version',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing.py',
+   'PYMODULE'),
+  ('pkg_resources.extern',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pkg_resources\\extern\\__init__.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('platform',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\platform.py',
+   'PYMODULE'),
+  ('plistlib',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\pprint.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('pydoc',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pytz',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pytz\\__init__.py',
+   'PYMODULE'),
+  ('pytz.exceptions',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pytz\\exceptions.py',
+   'PYMODULE'),
+  ('pytz.lazy',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pytz\\lazy.py',
+   'PYMODULE'),
+  ('pytz.tzfile',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pytz\\tzfile.py',
+   'PYMODULE'),
+  ('pytz.tzinfo',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\pytz\\tzinfo.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\queue.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\quopri.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\random.py',
+   'PYMODULE'),
+  ('runpy',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\runpy.py',
+   'PYMODULE'),
+  ('scipy',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\__init__.py',
+   'PYMODULE'),
+  ('scipy.__config__',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\__config__.py',
+   'PYMODULE'),
+  ('scipy._distributor_init',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\_distributor_init.py',
+   'PYMODULE'),
+  ('scipy._lib',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\_lib\\__init__.py',
+   'PYMODULE'),
+  ('scipy._lib._bunch',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\_lib\\_bunch.py',
+   'PYMODULE'),
+  ('scipy._lib._ccallback',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\_lib\\_ccallback.py',
+   'PYMODULE'),
+  ('scipy._lib._disjoint_set',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\_lib\\_disjoint_set.py',
+   'PYMODULE'),
+  ('scipy._lib._pep440',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\_lib\\_pep440.py',
+   'PYMODULE'),
+  ('scipy._lib._testutils',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\_lib\\_testutils.py',
+   'PYMODULE'),
+  ('scipy._lib._threadsafety',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\_lib\\_threadsafety.py',
+   'PYMODULE'),
+  ('scipy._lib._uarray',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\_lib\\_uarray\\__init__.py',
+   'PYMODULE'),
+  ('scipy._lib._uarray._backend',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\_lib\\_uarray\\_backend.py',
+   'PYMODULE'),
+  ('scipy._lib._util',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\_lib\\_util.py',
+   'PYMODULE'),
+  ('scipy._lib.decorator',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\_lib\\decorator.py',
+   'PYMODULE'),
+  ('scipy._lib.deprecation',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\_lib\\deprecation.py',
+   'PYMODULE'),
+  ('scipy._lib.doccer',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\_lib\\doccer.py',
+   'PYMODULE'),
+  ('scipy._lib.uarray',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\_lib\\uarray.py',
+   'PYMODULE'),
+  ('scipy.cluster',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\cluster\\__init__.py',
+   'PYMODULE'),
+  ('scipy.cluster.hierarchy',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\cluster\\hierarchy.py',
+   'PYMODULE'),
+  ('scipy.cluster.vq',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\cluster\\vq.py',
+   'PYMODULE'),
+  ('scipy.constants',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\constants\\__init__.py',
+   'PYMODULE'),
+  ('scipy.constants.codata',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\constants\\codata.py',
+   'PYMODULE'),
+  ('scipy.constants.constants',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\constants\\constants.py',
+   'PYMODULE'),
+  ('scipy.fft',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\fft\\__init__.py',
+   'PYMODULE'),
+  ('scipy.fft._backend',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\fft\\_backend.py',
+   'PYMODULE'),
+  ('scipy.fft._basic',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\fft\\_basic.py',
+   'PYMODULE'),
+  ('scipy.fft._fftlog',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\fft\\_fftlog.py',
+   'PYMODULE'),
+  ('scipy.fft._helper',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\fft\\_helper.py',
+   'PYMODULE'),
+  ('scipy.fft._pocketfft',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\fft\\_pocketfft\\__init__.py',
+   'PYMODULE'),
+  ('scipy.fft._pocketfft.basic',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\fft\\_pocketfft\\basic.py',
+   'PYMODULE'),
+  ('scipy.fft._pocketfft.helper',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\fft\\_pocketfft\\helper.py',
+   'PYMODULE'),
+  ('scipy.fft._pocketfft.realtransforms',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\fft\\_pocketfft\\realtransforms.py',
+   'PYMODULE'),
+  ('scipy.fft._realtransforms',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\fft\\_realtransforms.py',
+   'PYMODULE'),
+  ('scipy.integrate',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\integrate\\__init__.py',
+   'PYMODULE'),
+  ('scipy.integrate._bvp',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\integrate\\_bvp.py',
+   'PYMODULE'),
+  ('scipy.integrate._ivp',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\integrate\\_ivp\\__init__.py',
+   'PYMODULE'),
+  ('scipy.integrate._ivp.base',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\integrate\\_ivp\\base.py',
+   'PYMODULE'),
+  ('scipy.integrate._ivp.bdf',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\integrate\\_ivp\\bdf.py',
+   'PYMODULE'),
+  ('scipy.integrate._ivp.common',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\integrate\\_ivp\\common.py',
+   'PYMODULE'),
+  ('scipy.integrate._ivp.dop853_coefficients',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\integrate\\_ivp\\dop853_coefficients.py',
+   'PYMODULE'),
+  ('scipy.integrate._ivp.ivp',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\integrate\\_ivp\\ivp.py',
+   'PYMODULE'),
+  ('scipy.integrate._ivp.lsoda',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\integrate\\_ivp\\lsoda.py',
+   'PYMODULE'),
+  ('scipy.integrate._ivp.radau',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\integrate\\_ivp\\radau.py',
+   'PYMODULE'),
+  ('scipy.integrate._ivp.rk',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\integrate\\_ivp\\rk.py',
+   'PYMODULE'),
+  ('scipy.integrate._ode',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\integrate\\_ode.py',
+   'PYMODULE'),
+  ('scipy.integrate._quad_vec',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\integrate\\_quad_vec.py',
+   'PYMODULE'),
+  ('scipy.integrate._quadrature',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\integrate\\_quadrature.py',
+   'PYMODULE'),
+  ('scipy.integrate.odepack',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\integrate\\odepack.py',
+   'PYMODULE'),
+  ('scipy.integrate.quadpack',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\integrate\\quadpack.py',
+   'PYMODULE'),
+  ('scipy.interpolate',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\interpolate\\__init__.py',
+   'PYMODULE'),
+  ('scipy.interpolate._bsplines',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\interpolate\\_bsplines.py',
+   'PYMODULE'),
+  ('scipy.interpolate._cubic',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\interpolate\\_cubic.py',
+   'PYMODULE'),
+  ('scipy.interpolate._fitpack_impl',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\interpolate\\_fitpack_impl.py',
+   'PYMODULE'),
+  ('scipy.interpolate._pade',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\interpolate\\_pade.py',
+   'PYMODULE'),
+  ('scipy.interpolate._rbfinterp',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\interpolate\\_rbfinterp.py',
+   'PYMODULE'),
+  ('scipy.interpolate.fitpack',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\interpolate\\fitpack.py',
+   'PYMODULE'),
+  ('scipy.interpolate.fitpack2',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\interpolate\\fitpack2.py',
+   'PYMODULE'),
+  ('scipy.interpolate.interpolate',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\interpolate\\interpolate.py',
+   'PYMODULE'),
+  ('scipy.interpolate.ndgriddata',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\interpolate\\ndgriddata.py',
+   'PYMODULE'),
+  ('scipy.interpolate.polyint',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\interpolate\\polyint.py',
+   'PYMODULE'),
+  ('scipy.interpolate.rbf',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\interpolate\\rbf.py',
+   'PYMODULE'),
+  ('scipy.linalg',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\linalg\\__init__.py',
+   'PYMODULE'),
+  ('scipy.linalg._decomp_cossin',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\linalg\\_decomp_cossin.py',
+   'PYMODULE'),
+  ('scipy.linalg._decomp_ldl',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\linalg\\_decomp_ldl.py',
+   'PYMODULE'),
+  ('scipy.linalg._decomp_polar',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\linalg\\_decomp_polar.py',
+   'PYMODULE'),
+  ('scipy.linalg._decomp_qz',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\linalg\\_decomp_qz.py',
+   'PYMODULE'),
+  ('scipy.linalg._expm_frechet',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\linalg\\_expm_frechet.py',
+   'PYMODULE'),
+  ('scipy.linalg._interpolative_backend',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\linalg\\_interpolative_backend.py',
+   'PYMODULE'),
+  ('scipy.linalg._matfuncs_inv_ssq',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\linalg\\_matfuncs_inv_ssq.py',
+   'PYMODULE'),
+  ('scipy.linalg._matfuncs_sqrtm',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\linalg\\_matfuncs_sqrtm.py',
+   'PYMODULE'),
+  ('scipy.linalg._procrustes',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\linalg\\_procrustes.py',
+   'PYMODULE'),
+  ('scipy.linalg._sketches',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\linalg\\_sketches.py',
+   'PYMODULE'),
+  ('scipy.linalg._solvers',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\linalg\\_solvers.py',
+   'PYMODULE'),
+  ('scipy.linalg.basic',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\linalg\\basic.py',
+   'PYMODULE'),
+  ('scipy.linalg.blas',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\linalg\\blas.py',
+   'PYMODULE'),
+  ('scipy.linalg.decomp',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\linalg\\decomp.py',
+   'PYMODULE'),
+  ('scipy.linalg.decomp_cholesky',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\linalg\\decomp_cholesky.py',
+   'PYMODULE'),
+  ('scipy.linalg.decomp_lu',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\linalg\\decomp_lu.py',
+   'PYMODULE'),
+  ('scipy.linalg.decomp_qr',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\linalg\\decomp_qr.py',
+   'PYMODULE'),
+  ('scipy.linalg.decomp_schur',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\linalg\\decomp_schur.py',
+   'PYMODULE'),
+  ('scipy.linalg.decomp_svd',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\linalg\\decomp_svd.py',
+   'PYMODULE'),
+  ('scipy.linalg.flinalg',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\linalg\\flinalg.py',
+   'PYMODULE'),
+  ('scipy.linalg.interpolative',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\linalg\\interpolative.py',
+   'PYMODULE'),
+  ('scipy.linalg.lapack',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\linalg\\lapack.py',
+   'PYMODULE'),
+  ('scipy.linalg.matfuncs',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\linalg\\matfuncs.py',
+   'PYMODULE'),
+  ('scipy.linalg.misc',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\linalg\\misc.py',
+   'PYMODULE'),
+  ('scipy.linalg.special_matrices',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\linalg\\special_matrices.py',
+   'PYMODULE'),
+  ('scipy.misc',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\misc\\__init__.py',
+   'PYMODULE'),
+  ('scipy.misc.common',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\misc\\common.py',
+   'PYMODULE'),
+  ('scipy.misc.doccer',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\misc\\doccer.py',
+   'PYMODULE'),
+  ('scipy.ndimage',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\ndimage\\__init__.py',
+   'PYMODULE'),
+  ('scipy.ndimage._ni_docstrings',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\ndimage\\_ni_docstrings.py',
+   'PYMODULE'),
+  ('scipy.ndimage._ni_support',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\ndimage\\_ni_support.py',
+   'PYMODULE'),
+  ('scipy.ndimage.filters',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\ndimage\\filters.py',
+   'PYMODULE'),
+  ('scipy.ndimage.fourier',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\ndimage\\fourier.py',
+   'PYMODULE'),
+  ('scipy.ndimage.interpolation',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\ndimage\\interpolation.py',
+   'PYMODULE'),
+  ('scipy.ndimage.measurements',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\ndimage\\measurements.py',
+   'PYMODULE'),
+  ('scipy.ndimage.morphology',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\ndimage\\morphology.py',
+   'PYMODULE'),
+  ('scipy.optimize',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\optimize\\__init__.py',
+   'PYMODULE'),
+  ('scipy.optimize._basinhopping',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\optimize\\_basinhopping.py',
+   'PYMODULE'),
+  ('scipy.optimize._constraints',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\optimize\\_constraints.py',
+   'PYMODULE'),
+  ('scipy.optimize._differentiable_functions',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\optimize\\_differentiable_functions.py',
+   'PYMODULE'),
+  ('scipy.optimize._differentialevolution',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\optimize\\_differentialevolution.py',
+   'PYMODULE'),
+  ('scipy.optimize._dual_annealing',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\optimize\\_dual_annealing.py',
+   'PYMODULE'),
+  ('scipy.optimize._hessian_update_strategy',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\optimize\\_hessian_update_strategy.py',
+   'PYMODULE'),
+  ('scipy.optimize._highs',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\optimize\\_highs\\__init__.py',
+   'PYMODULE'),
+  ('scipy.optimize._linprog',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\optimize\\_linprog.py',
+   'PYMODULE'),
+  ('scipy.optimize._linprog_doc',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\optimize\\_linprog_doc.py',
+   'PYMODULE'),
+  ('scipy.optimize._linprog_highs',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\optimize\\_linprog_highs.py',
+   'PYMODULE'),
+  ('scipy.optimize._linprog_ip',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\optimize\\_linprog_ip.py',
+   'PYMODULE'),
+  ('scipy.optimize._linprog_rs',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\optimize\\_linprog_rs.py',
+   'PYMODULE'),
+  ('scipy.optimize._linprog_simplex',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\optimize\\_linprog_simplex.py',
+   'PYMODULE'),
+  ('scipy.optimize._linprog_util',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\optimize\\_linprog_util.py',
+   'PYMODULE'),
+  ('scipy.optimize._lsap',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\optimize\\_lsap.py',
+   'PYMODULE'),
+  ('scipy.optimize._lsq',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\optimize\\_lsq\\__init__.py',
+   'PYMODULE'),
+  ('scipy.optimize._lsq.bvls',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\optimize\\_lsq\\bvls.py',
+   'PYMODULE'),
+  ('scipy.optimize._lsq.common',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\optimize\\_lsq\\common.py',
+   'PYMODULE'),
+  ('scipy.optimize._lsq.dogbox',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\optimize\\_lsq\\dogbox.py',
+   'PYMODULE'),
+  ('scipy.optimize._lsq.least_squares',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\optimize\\_lsq\\least_squares.py',
+   'PYMODULE'),
+  ('scipy.optimize._lsq.lsq_linear',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\optimize\\_lsq\\lsq_linear.py',
+   'PYMODULE'),
+  ('scipy.optimize._lsq.trf',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\optimize\\_lsq\\trf.py',
+   'PYMODULE'),
+  ('scipy.optimize._lsq.trf_linear',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\optimize\\_lsq\\trf_linear.py',
+   'PYMODULE'),
+  ('scipy.optimize._minimize',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\optimize\\_minimize.py',
+   'PYMODULE'),
+  ('scipy.optimize._nnls',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\optimize\\_nnls.py',
+   'PYMODULE'),
+  ('scipy.optimize._numdiff',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\optimize\\_numdiff.py',
+   'PYMODULE'),
+  ('scipy.optimize._qap',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\optimize\\_qap.py',
+   'PYMODULE'),
+  ('scipy.optimize._remove_redundancy',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\optimize\\_remove_redundancy.py',
+   'PYMODULE'),
+  ('scipy.optimize._root',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\optimize\\_root.py',
+   'PYMODULE'),
+  ('scipy.optimize._root_scalar',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\optimize\\_root_scalar.py',
+   'PYMODULE'),
+  ('scipy.optimize._shgo',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\optimize\\_shgo.py',
+   'PYMODULE'),
+  ('scipy.optimize._shgo_lib',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\optimize\\_shgo_lib\\__init__.py',
+   'PYMODULE'),
+  ('scipy.optimize._shgo_lib.triangulation',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\optimize\\_shgo_lib\\triangulation.py',
+   'PYMODULE'),
+  ('scipy.optimize._spectral',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\optimize\\_spectral.py',
+   'PYMODULE'),
+  ('scipy.optimize._trlib',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\optimize\\_trlib\\__init__.py',
+   'PYMODULE'),
+  ('scipy.optimize._trustregion',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\optimize\\_trustregion.py',
+   'PYMODULE'),
+  ('scipy.optimize._trustregion_constr',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\optimize\\_trustregion_constr\\__init__.py',
+   'PYMODULE'),
+  ('scipy.optimize._trustregion_constr.canonical_constraint',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\optimize\\_trustregion_constr\\canonical_constraint.py',
+   'PYMODULE'),
+  ('scipy.optimize._trustregion_constr.equality_constrained_sqp',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\optimize\\_trustregion_constr\\equality_constrained_sqp.py',
+   'PYMODULE'),
+  ('scipy.optimize._trustregion_constr.minimize_trustregion_constr',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\optimize\\_trustregion_constr\\minimize_trustregion_constr.py',
+   'PYMODULE'),
+  ('scipy.optimize._trustregion_constr.projections',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\optimize\\_trustregion_constr\\projections.py',
+   'PYMODULE'),
+  ('scipy.optimize._trustregion_constr.qp_subproblem',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\optimize\\_trustregion_constr\\qp_subproblem.py',
+   'PYMODULE'),
+  ('scipy.optimize._trustregion_constr.report',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\optimize\\_trustregion_constr\\report.py',
+   'PYMODULE'),
+  ('scipy.optimize._trustregion_constr.tr_interior_point',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\optimize\\_trustregion_constr\\tr_interior_point.py',
+   'PYMODULE'),
+  ('scipy.optimize._trustregion_dogleg',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\optimize\\_trustregion_dogleg.py',
+   'PYMODULE'),
+  ('scipy.optimize._trustregion_exact',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\optimize\\_trustregion_exact.py',
+   'PYMODULE'),
+  ('scipy.optimize._trustregion_krylov',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\optimize\\_trustregion_krylov.py',
+   'PYMODULE'),
+  ('scipy.optimize._trustregion_ncg',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\optimize\\_trustregion_ncg.py',
+   'PYMODULE'),
+  ('scipy.optimize.cobyla',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\optimize\\cobyla.py',
+   'PYMODULE'),
+  ('scipy.optimize.lbfgsb',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\optimize\\lbfgsb.py',
+   'PYMODULE'),
+  ('scipy.optimize.linesearch',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\optimize\\linesearch.py',
+   'PYMODULE'),
+  ('scipy.optimize.minpack',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\optimize\\minpack.py',
+   'PYMODULE'),
+  ('scipy.optimize.nonlin',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\optimize\\nonlin.py',
+   'PYMODULE'),
+  ('scipy.optimize.optimize',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\optimize\\optimize.py',
+   'PYMODULE'),
+  ('scipy.optimize.slsqp',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\optimize\\slsqp.py',
+   'PYMODULE'),
+  ('scipy.optimize.tnc',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\optimize\\tnc.py',
+   'PYMODULE'),
+  ('scipy.optimize.zeros',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\optimize\\zeros.py',
+   'PYMODULE'),
+  ('scipy.sparse',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\sparse\\__init__.py',
+   'PYMODULE'),
+  ('scipy.sparse._index',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\sparse\\_index.py',
+   'PYMODULE'),
+  ('scipy.sparse._matrix_io',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\sparse\\_matrix_io.py',
+   'PYMODULE'),
+  ('scipy.sparse.base',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\sparse\\base.py',
+   'PYMODULE'),
+  ('scipy.sparse.bsr',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\sparse\\bsr.py',
+   'PYMODULE'),
+  ('scipy.sparse.compressed',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\sparse\\compressed.py',
+   'PYMODULE'),
+  ('scipy.sparse.construct',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\sparse\\construct.py',
+   'PYMODULE'),
+  ('scipy.sparse.coo',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\sparse\\coo.py',
+   'PYMODULE'),
+  ('scipy.sparse.csc',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\sparse\\csc.py',
+   'PYMODULE'),
+  ('scipy.sparse.csgraph',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\sparse\\csgraph\\__init__.py',
+   'PYMODULE'),
+  ('scipy.sparse.csgraph._laplacian',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\sparse\\csgraph\\_laplacian.py',
+   'PYMODULE'),
+  ('scipy.sparse.csgraph._validation',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\sparse\\csgraph\\_validation.py',
+   'PYMODULE'),
+  ('scipy.sparse.csr',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\sparse\\csr.py',
+   'PYMODULE'),
+  ('scipy.sparse.data',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\sparse\\data.py',
+   'PYMODULE'),
+  ('scipy.sparse.dia',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\sparse\\dia.py',
+   'PYMODULE'),
+  ('scipy.sparse.dok',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\sparse\\dok.py',
+   'PYMODULE'),
+  ('scipy.sparse.extract',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\sparse\\extract.py',
+   'PYMODULE'),
+  ('scipy.sparse.lil',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\sparse\\lil.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\sparse\\linalg\\__init__.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg._expm_multiply',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\sparse\\linalg\\_expm_multiply.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg._norm',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\sparse\\linalg\\_norm.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg._onenormest',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\sparse\\linalg\\_onenormest.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg.dsolve',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\sparse\\linalg\\dsolve\\__init__.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg.dsolve._add_newdocs',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\sparse\\linalg\\dsolve\\_add_newdocs.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg.dsolve.linsolve',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\sparse\\linalg\\dsolve\\linsolve.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg.eigen',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\sparse\\linalg\\eigen\\__init__.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg.eigen.arpack',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\sparse\\linalg\\eigen\\arpack\\__init__.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg.eigen.arpack.arpack',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\sparse\\linalg\\eigen\\arpack\\arpack.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg.eigen.lobpcg',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\sparse\\linalg\\eigen\\lobpcg\\__init__.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg.eigen.lobpcg.lobpcg',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\sparse\\linalg\\eigen\\lobpcg\\lobpcg.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg.interface',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\sparse\\linalg\\interface.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg.isolve',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\sparse\\linalg\\isolve\\__init__.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg.isolve._gcrotmk',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\sparse\\linalg\\isolve\\_gcrotmk.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg.isolve.iterative',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\sparse\\linalg\\isolve\\iterative.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg.isolve.lgmres',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\sparse\\linalg\\isolve\\lgmres.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg.isolve.lsmr',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\sparse\\linalg\\isolve\\lsmr.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg.isolve.lsqr',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\sparse\\linalg\\isolve\\lsqr.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg.isolve.minres',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\sparse\\linalg\\isolve\\minres.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg.isolve.utils',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\sparse\\linalg\\isolve\\utils.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg.matfuncs',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\sparse\\linalg\\matfuncs.py',
+   'PYMODULE'),
+  ('scipy.sparse.spfuncs',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\sparse\\spfuncs.py',
+   'PYMODULE'),
+  ('scipy.sparse.sputils',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\sparse\\sputils.py',
+   'PYMODULE'),
+  ('scipy.spatial',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\spatial\\__init__.py',
+   'PYMODULE'),
+  ('scipy.spatial._geometric_slerp',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\spatial\\_geometric_slerp.py',
+   'PYMODULE'),
+  ('scipy.spatial._plotutils',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\spatial\\_plotutils.py',
+   'PYMODULE'),
+  ('scipy.spatial._procrustes',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\spatial\\_procrustes.py',
+   'PYMODULE'),
+  ('scipy.spatial._spherical_voronoi',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\spatial\\_spherical_voronoi.py',
+   'PYMODULE'),
+  ('scipy.spatial.distance',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\spatial\\distance.py',
+   'PYMODULE'),
+  ('scipy.spatial.kdtree',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\spatial\\kdtree.py',
+   'PYMODULE'),
+  ('scipy.spatial.transform',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\spatial\\transform\\__init__.py',
+   'PYMODULE'),
+  ('scipy.spatial.transform._rotation_groups',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\spatial\\transform\\_rotation_groups.py',
+   'PYMODULE'),
+  ('scipy.spatial.transform._rotation_spline',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\spatial\\transform\\_rotation_spline.py',
+   'PYMODULE'),
+  ('scipy.special',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\special\\__init__.py',
+   'PYMODULE'),
+  ('scipy.special._basic',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\special\\_basic.py',
+   'PYMODULE'),
+  ('scipy.special._ellip_harm',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\special\\_ellip_harm.py',
+   'PYMODULE'),
+  ('scipy.special._lambertw',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\special\\_lambertw.py',
+   'PYMODULE'),
+  ('scipy.special._logsumexp',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\special\\_logsumexp.py',
+   'PYMODULE'),
+  ('scipy.special._spherical_bessel',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\special\\_spherical_bessel.py',
+   'PYMODULE'),
+  ('scipy.special.orthogonal',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\special\\orthogonal.py',
+   'PYMODULE'),
+  ('scipy.special.sf_error',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\special\\sf_error.py',
+   'PYMODULE'),
+  ('scipy.special.spfun_stats',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\special\\spfun_stats.py',
+   'PYMODULE'),
+  ('scipy.stats',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\stats\\__init__.py',
+   'PYMODULE'),
+  ('scipy.stats._binned_statistic',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\stats\\_binned_statistic.py',
+   'PYMODULE'),
+  ('scipy.stats._binomtest',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\stats\\_binomtest.py',
+   'PYMODULE'),
+  ('scipy.stats._boost',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\stats\\_boost\\__init__.py',
+   'PYMODULE'),
+  ('scipy.stats._bootstrap',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\stats\\_bootstrap.py',
+   'PYMODULE'),
+  ('scipy.stats._common',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\stats\\_common.py',
+   'PYMODULE'),
+  ('scipy.stats._constants',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\stats\\_constants.py',
+   'PYMODULE'),
+  ('scipy.stats._continuous_distns',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\stats\\_continuous_distns.py',
+   'PYMODULE'),
+  ('scipy.stats._crosstab',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\stats\\_crosstab.py',
+   'PYMODULE'),
+  ('scipy.stats._discrete_distns',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\stats\\_discrete_distns.py',
+   'PYMODULE'),
+  ('scipy.stats._distn_infrastructure',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\stats\\_distn_infrastructure.py',
+   'PYMODULE'),
+  ('scipy.stats._distr_params',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\stats\\_distr_params.py',
+   'PYMODULE'),
+  ('scipy.stats._entropy',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\stats\\_entropy.py',
+   'PYMODULE'),
+  ('scipy.stats._hypotests',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\stats\\_hypotests.py',
+   'PYMODULE'),
+  ('scipy.stats._ksstats',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\stats\\_ksstats.py',
+   'PYMODULE'),
+  ('scipy.stats._mannwhitneyu',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\stats\\_mannwhitneyu.py',
+   'PYMODULE'),
+  ('scipy.stats._multivariate',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\stats\\_multivariate.py',
+   'PYMODULE'),
+  ('scipy.stats._page_trend_test',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\stats\\_page_trend_test.py',
+   'PYMODULE'),
+  ('scipy.stats._qmc',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\stats\\_qmc.py',
+   'PYMODULE'),
+  ('scipy.stats._relative_risk',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\stats\\_relative_risk.py',
+   'PYMODULE'),
+  ('scipy.stats._rvs_sampling',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\stats\\_rvs_sampling.py',
+   'PYMODULE'),
+  ('scipy.stats._stats_mstats_common',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\stats\\_stats_mstats_common.py',
+   'PYMODULE'),
+  ('scipy.stats._tukeylambda_stats',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\stats\\_tukeylambda_stats.py',
+   'PYMODULE'),
+  ('scipy.stats._wilcoxon_data',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\stats\\_wilcoxon_data.py',
+   'PYMODULE'),
+  ('scipy.stats.contingency',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\stats\\contingency.py',
+   'PYMODULE'),
+  ('scipy.stats.distributions',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\stats\\distributions.py',
+   'PYMODULE'),
+  ('scipy.stats.kde',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\stats\\kde.py',
+   'PYMODULE'),
+  ('scipy.stats.morestats',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\stats\\morestats.py',
+   'PYMODULE'),
+  ('scipy.stats.mstats',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\stats\\mstats.py',
+   'PYMODULE'),
+  ('scipy.stats.mstats_basic',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\stats\\mstats_basic.py',
+   'PYMODULE'),
+  ('scipy.stats.mstats_extras',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\stats\\mstats_extras.py',
+   'PYMODULE'),
+  ('scipy.stats.qmc',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\stats\\qmc.py',
+   'PYMODULE'),
+  ('scipy.stats.stats',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\stats\\stats.py',
+   'PYMODULE'),
+  ('scipy.version',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\scipy\\version.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\selectors.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\shlex.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\shutil.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\signal.py',
+   'PYMODULE'),
+  ('six',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\six.py',
+   'PYMODULE'),
+  ('sklearn',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\__init__.py',
+   'PYMODULE'),
+  ('sklearn.__check_build',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\__check_build\\__init__.py',
+   'PYMODULE'),
+  ('sklearn._config',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\_config.py',
+   'PYMODULE'),
+  ('sklearn._distributor_init',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\_distributor_init.py',
+   'PYMODULE'),
+  ('sklearn._loss',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\_loss\\__init__.py',
+   'PYMODULE'),
+  ('sklearn._loss.glm_distribution',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\_loss\\glm_distribution.py',
+   'PYMODULE'),
+  ('sklearn.base',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\base.py',
+   'PYMODULE'),
+  ('sklearn.cluster',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\cluster\\__init__.py',
+   'PYMODULE'),
+  ('sklearn.cluster._affinity_propagation',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\cluster\\_affinity_propagation.py',
+   'PYMODULE'),
+  ('sklearn.cluster._agglomerative',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\cluster\\_agglomerative.py',
+   'PYMODULE'),
+  ('sklearn.cluster._bicluster',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\cluster\\_bicluster.py',
+   'PYMODULE'),
+  ('sklearn.cluster._birch',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\cluster\\_birch.py',
+   'PYMODULE'),
+  ('sklearn.cluster._dbscan',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\cluster\\_dbscan.py',
+   'PYMODULE'),
+  ('sklearn.cluster._feature_agglomeration',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\cluster\\_feature_agglomeration.py',
+   'PYMODULE'),
+  ('sklearn.cluster._kmeans',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\cluster\\_kmeans.py',
+   'PYMODULE'),
+  ('sklearn.cluster._mean_shift',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\cluster\\_mean_shift.py',
+   'PYMODULE'),
+  ('sklearn.cluster._optics',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\cluster\\_optics.py',
+   'PYMODULE'),
+  ('sklearn.cluster._spectral',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\cluster\\_spectral.py',
+   'PYMODULE'),
+  ('sklearn.covariance',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\covariance\\__init__.py',
+   'PYMODULE'),
+  ('sklearn.covariance._elliptic_envelope',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\covariance\\_elliptic_envelope.py',
+   'PYMODULE'),
+  ('sklearn.covariance._empirical_covariance',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\covariance\\_empirical_covariance.py',
+   'PYMODULE'),
+  ('sklearn.covariance._graph_lasso',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\covariance\\_graph_lasso.py',
+   'PYMODULE'),
+  ('sklearn.covariance._robust_covariance',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\covariance\\_robust_covariance.py',
+   'PYMODULE'),
+  ('sklearn.covariance._shrunk_covariance',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\covariance\\_shrunk_covariance.py',
+   'PYMODULE'),
+  ('sklearn.decomposition',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\decomposition\\__init__.py',
+   'PYMODULE'),
+  ('sklearn.decomposition._base',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\decomposition\\_base.py',
+   'PYMODULE'),
+  ('sklearn.decomposition._dict_learning',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\decomposition\\_dict_learning.py',
+   'PYMODULE'),
+  ('sklearn.decomposition._factor_analysis',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\decomposition\\_factor_analysis.py',
+   'PYMODULE'),
+  ('sklearn.decomposition._fastica',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\decomposition\\_fastica.py',
+   'PYMODULE'),
+  ('sklearn.decomposition._incremental_pca',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\decomposition\\_incremental_pca.py',
+   'PYMODULE'),
+  ('sklearn.decomposition._kernel_pca',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\decomposition\\_kernel_pca.py',
+   'PYMODULE'),
+  ('sklearn.decomposition._lda',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\decomposition\\_lda.py',
+   'PYMODULE'),
+  ('sklearn.decomposition._nmf',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\decomposition\\_nmf.py',
+   'PYMODULE'),
+  ('sklearn.decomposition._pca',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\decomposition\\_pca.py',
+   'PYMODULE'),
+  ('sklearn.decomposition._sparse_pca',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\decomposition\\_sparse_pca.py',
+   'PYMODULE'),
+  ('sklearn.decomposition._truncated_svd',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\decomposition\\_truncated_svd.py',
+   'PYMODULE'),
+  ('sklearn.discriminant_analysis',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\discriminant_analysis.py',
+   'PYMODULE'),
+  ('sklearn.exceptions',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\exceptions.py',
+   'PYMODULE'),
+  ('sklearn.externals',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\externals\\__init__.py',
+   'PYMODULE'),
+  ('sklearn.externals._lobpcg',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\externals\\_lobpcg.py',
+   'PYMODULE'),
+  ('sklearn.externals._packaging',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\externals\\_packaging\\__init__.py',
+   'PYMODULE'),
+  ('sklearn.externals._packaging._structures',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\externals\\_packaging\\_structures.py',
+   'PYMODULE'),
+  ('sklearn.externals._packaging.version',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\externals\\_packaging\\version.py',
+   'PYMODULE'),
+  ('sklearn.gaussian_process',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\gaussian_process\\__init__.py',
+   'PYMODULE'),
+  ('sklearn.gaussian_process._gpc',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\gaussian_process\\_gpc.py',
+   'PYMODULE'),
+  ('sklearn.gaussian_process._gpr',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\gaussian_process\\_gpr.py',
+   'PYMODULE'),
+  ('sklearn.gaussian_process.kernels',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\gaussian_process\\kernels.py',
+   'PYMODULE'),
+  ('sklearn.isotonic',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\isotonic.py',
+   'PYMODULE'),
+  ('sklearn.linear_model',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\linear_model\\__init__.py',
+   'PYMODULE'),
+  ('sklearn.linear_model._base',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\linear_model\\_base.py',
+   'PYMODULE'),
+  ('sklearn.linear_model._bayes',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\linear_model\\_bayes.py',
+   'PYMODULE'),
+  ('sklearn.linear_model._coordinate_descent',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\linear_model\\_coordinate_descent.py',
+   'PYMODULE'),
+  ('sklearn.linear_model._glm',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\linear_model\\_glm\\__init__.py',
+   'PYMODULE'),
+  ('sklearn.linear_model._glm.glm',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\linear_model\\_glm\\glm.py',
+   'PYMODULE'),
+  ('sklearn.linear_model._glm.link',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\linear_model\\_glm\\link.py',
+   'PYMODULE'),
+  ('sklearn.linear_model._huber',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\linear_model\\_huber.py',
+   'PYMODULE'),
+  ('sklearn.linear_model._least_angle',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\linear_model\\_least_angle.py',
+   'PYMODULE'),
+  ('sklearn.linear_model._logistic',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\linear_model\\_logistic.py',
+   'PYMODULE'),
+  ('sklearn.linear_model._omp',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\linear_model\\_omp.py',
+   'PYMODULE'),
+  ('sklearn.linear_model._passive_aggressive',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\linear_model\\_passive_aggressive.py',
+   'PYMODULE'),
+  ('sklearn.linear_model._perceptron',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\linear_model\\_perceptron.py',
+   'PYMODULE'),
+  ('sklearn.linear_model._quantile',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\linear_model\\_quantile.py',
+   'PYMODULE'),
+  ('sklearn.linear_model._ransac',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\linear_model\\_ransac.py',
+   'PYMODULE'),
+  ('sklearn.linear_model._ridge',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\linear_model\\_ridge.py',
+   'PYMODULE'),
+  ('sklearn.linear_model._sag',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\linear_model\\_sag.py',
+   'PYMODULE'),
+  ('sklearn.linear_model._stochastic_gradient',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\linear_model\\_stochastic_gradient.py',
+   'PYMODULE'),
+  ('sklearn.linear_model._theil_sen',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\linear_model\\_theil_sen.py',
+   'PYMODULE'),
+  ('sklearn.manifold',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\manifold\\__init__.py',
+   'PYMODULE'),
+  ('sklearn.manifold._isomap',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\manifold\\_isomap.py',
+   'PYMODULE'),
+  ('sklearn.manifold._locally_linear',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\manifold\\_locally_linear.py',
+   'PYMODULE'),
+  ('sklearn.manifold._mds',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\manifold\\_mds.py',
+   'PYMODULE'),
+  ('sklearn.manifold._spectral_embedding',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\manifold\\_spectral_embedding.py',
+   'PYMODULE'),
+  ('sklearn.manifold._t_sne',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\manifold\\_t_sne.py',
+   'PYMODULE'),
+  ('sklearn.metrics',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\metrics\\__init__.py',
+   'PYMODULE'),
+  ('sklearn.metrics._base',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\metrics\\_base.py',
+   'PYMODULE'),
+  ('sklearn.metrics._classification',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\metrics\\_classification.py',
+   'PYMODULE'),
+  ('sklearn.metrics._plot',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\metrics\\_plot\\__init__.py',
+   'PYMODULE'),
+  ('sklearn.metrics._plot.base',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\metrics\\_plot\\base.py',
+   'PYMODULE'),
+  ('sklearn.metrics._plot.confusion_matrix',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\metrics\\_plot\\confusion_matrix.py',
+   'PYMODULE'),
+  ('sklearn.metrics._plot.det_curve',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\metrics\\_plot\\det_curve.py',
+   'PYMODULE'),
+  ('sklearn.metrics._plot.precision_recall_curve',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\metrics\\_plot\\precision_recall_curve.py',
+   'PYMODULE'),
+  ('sklearn.metrics._plot.roc_curve',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\metrics\\_plot\\roc_curve.py',
+   'PYMODULE'),
+  ('sklearn.metrics._ranking',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\metrics\\_ranking.py',
+   'PYMODULE'),
+  ('sklearn.metrics._regression',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\metrics\\_regression.py',
+   'PYMODULE'),
+  ('sklearn.metrics._scorer',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\metrics\\_scorer.py',
+   'PYMODULE'),
+  ('sklearn.metrics.cluster',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\metrics\\cluster\\__init__.py',
+   'PYMODULE'),
+  ('sklearn.metrics.cluster._bicluster',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\metrics\\cluster\\_bicluster.py',
+   'PYMODULE'),
+  ('sklearn.metrics.cluster._supervised',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\metrics\\cluster\\_supervised.py',
+   'PYMODULE'),
+  ('sklearn.metrics.cluster._unsupervised',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\metrics\\cluster\\_unsupervised.py',
+   'PYMODULE'),
+  ('sklearn.metrics.pairwise',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\metrics\\pairwise.py',
+   'PYMODULE'),
+  ('sklearn.model_selection',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\model_selection\\__init__.py',
+   'PYMODULE'),
+  ('sklearn.model_selection._search',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\model_selection\\_search.py',
+   'PYMODULE'),
+  ('sklearn.model_selection._search_successive_halving',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\model_selection\\_search_successive_halving.py',
+   'PYMODULE'),
+  ('sklearn.model_selection._split',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\model_selection\\_split.py',
+   'PYMODULE'),
+  ('sklearn.model_selection._validation',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\model_selection\\_validation.py',
+   'PYMODULE'),
+  ('sklearn.multiclass',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\multiclass.py',
+   'PYMODULE'),
+  ('sklearn.neighbors',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\neighbors\\__init__.py',
+   'PYMODULE'),
+  ('sklearn.neighbors._base',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\neighbors\\_base.py',
+   'PYMODULE'),
+  ('sklearn.neighbors._classification',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\neighbors\\_classification.py',
+   'PYMODULE'),
+  ('sklearn.neighbors._distance_metric',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\neighbors\\_distance_metric.py',
+   'PYMODULE'),
+  ('sklearn.neighbors._graph',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\neighbors\\_graph.py',
+   'PYMODULE'),
+  ('sklearn.neighbors._kde',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\neighbors\\_kde.py',
+   'PYMODULE'),
+  ('sklearn.neighbors._lof',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\neighbors\\_lof.py',
+   'PYMODULE'),
+  ('sklearn.neighbors._nca',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\neighbors\\_nca.py',
+   'PYMODULE'),
+  ('sklearn.neighbors._nearest_centroid',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\neighbors\\_nearest_centroid.py',
+   'PYMODULE'),
+  ('sklearn.neighbors._regression',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\neighbors\\_regression.py',
+   'PYMODULE'),
+  ('sklearn.neighbors._unsupervised',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\neighbors\\_unsupervised.py',
+   'PYMODULE'),
+  ('sklearn.preprocessing',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\preprocessing\\__init__.py',
+   'PYMODULE'),
+  ('sklearn.preprocessing._data',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\preprocessing\\_data.py',
+   'PYMODULE'),
+  ('sklearn.preprocessing._discretization',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\preprocessing\\_discretization.py',
+   'PYMODULE'),
+  ('sklearn.preprocessing._encoders',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\preprocessing\\_encoders.py',
+   'PYMODULE'),
+  ('sklearn.preprocessing._function_transformer',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\preprocessing\\_function_transformer.py',
+   'PYMODULE'),
+  ('sklearn.preprocessing._label',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\preprocessing\\_label.py',
+   'PYMODULE'),
+  ('sklearn.preprocessing._polynomial',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\preprocessing\\_polynomial.py',
+   'PYMODULE'),
+  ('sklearn.svm',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\svm\\__init__.py',
+   'PYMODULE'),
+  ('sklearn.svm._base',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\svm\\_base.py',
+   'PYMODULE'),
+  ('sklearn.svm._bounds',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\svm\\_bounds.py',
+   'PYMODULE'),
+  ('sklearn.svm._classes',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\svm\\_classes.py',
+   'PYMODULE'),
+  ('sklearn.tree',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\tree\\__init__.py',
+   'PYMODULE'),
+  ('sklearn.tree._classes',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\tree\\_classes.py',
+   'PYMODULE'),
+  ('sklearn.tree._export',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\tree\\_export.py',
+   'PYMODULE'),
+  ('sklearn.tree._reingold_tilford',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\tree\\_reingold_tilford.py',
+   'PYMODULE'),
+  ('sklearn.utils',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\utils\\__init__.py',
+   'PYMODULE'),
+  ('sklearn.utils._arpack',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\utils\\_arpack.py',
+   'PYMODULE'),
+  ('sklearn.utils._encode',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\utils\\_encode.py',
+   'PYMODULE'),
+  ('sklearn.utils._estimator_html_repr',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\utils\\_estimator_html_repr.py',
+   'PYMODULE'),
+  ('sklearn.utils._joblib',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\utils\\_joblib.py',
+   'PYMODULE'),
+  ('sklearn.utils._mask',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\utils\\_mask.py',
+   'PYMODULE'),
+  ('sklearn.utils._pprint',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\utils\\_pprint.py',
+   'PYMODULE'),
+  ('sklearn.utils._show_versions',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\utils\\_show_versions.py',
+   'PYMODULE'),
+  ('sklearn.utils._tags',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\utils\\_tags.py',
+   'PYMODULE'),
+  ('sklearn.utils._testing',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\utils\\_testing.py',
+   'PYMODULE'),
+  ('sklearn.utils.class_weight',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\utils\\class_weight.py',
+   'PYMODULE'),
+  ('sklearn.utils.deprecation',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\utils\\deprecation.py',
+   'PYMODULE'),
+  ('sklearn.utils.extmath',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\utils\\extmath.py',
+   'PYMODULE'),
+  ('sklearn.utils.fixes',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\utils\\fixes.py',
+   'PYMODULE'),
+  ('sklearn.utils.graph',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\utils\\graph.py',
+   'PYMODULE'),
+  ('sklearn.utils.metaestimators',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\utils\\metaestimators.py',
+   'PYMODULE'),
+  ('sklearn.utils.multiclass',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\utils\\multiclass.py',
+   'PYMODULE'),
+  ('sklearn.utils.optimize',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\utils\\optimize.py',
+   'PYMODULE'),
+  ('sklearn.utils.random',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\utils\\random.py',
+   'PYMODULE'),
+  ('sklearn.utils.sparsefuncs',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\utils\\sparsefuncs.py',
+   'PYMODULE'),
+  ('sklearn.utils.stats',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\utils\\stats.py',
+   'PYMODULE'),
+  ('sklearn.utils.validation',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\sklearn\\utils\\validation.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\socket.py',
+   'PYMODULE'),
+  ('socketserver',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('sqlite3',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\sqlite3\\__init__.py',
+   'PYMODULE'),
+  ('sqlite3.dbapi2',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\sqlite3\\dbapi2.py',
+   'PYMODULE'),
+  ('sqlite3.dump',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\sqlite3\\dump.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\ssl.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\string.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\sysconfig.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\threading.py',
+   'PYMODULE'),
+  ('threadpoolctl',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\threadpoolctl.py',
+   'PYMODULE'),
+  ('timeit',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\timeit.py',
+   'PYMODULE'),
+  ('tkinter',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\tkinter\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.commondialog',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\tkinter\\commondialog.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\tkinter\\constants.py',
+   'PYMODULE'),
+  ('tkinter.dialog',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\tkinter\\dialog.py',
+   'PYMODULE'),
+  ('tkinter.filedialog',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\tkinter\\filedialog.py',
+   'PYMODULE'),
+  ('tkinter.messagebox',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\tkinter\\messagebox.py',
+   'PYMODULE'),
+  ('tkinter.ttk',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\tkinter\\ttk.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('tty',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\tty.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\typing.py',
+   'PYMODULE'),
+  ('typing_extensions',
+   'c:\\users\\cgdm\\desktop\\miscellanous\\decision '
+   'tree\\venv\\lib\\site-packages\\typing_extensions.py',
+   'PYMODULE'),
+  ('unittest',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('uu',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\uu.py',
+   'PYMODULE'),
+  ('uuid',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\uuid.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('xml',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.dom',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\xml\\dom\\__init__.py',
+   'PYMODULE'),
+  ('xml.dom.NodeFilter',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\xml\\dom\\NodeFilter.py',
+   'PYMODULE'),
+  ('xml.dom.domreg',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\xml\\dom\\domreg.py',
+   'PYMODULE'),
+  ('xml.dom.expatbuilder',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\xml\\dom\\expatbuilder.py',
+   'PYMODULE'),
+  ('xml.dom.minicompat',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\xml\\dom\\minicompat.py',
+   'PYMODULE'),
+  ('xml.dom.minidom',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\xml\\dom\\minidom.py',
+   'PYMODULE'),
+  ('xml.dom.pulldom',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\xml\\dom\\pulldom.py',
+   'PYMODULE'),
+  ('xml.dom.xmlbuilder',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\xml\\dom\\xmlbuilder.py',
+   'PYMODULE'),
+  ('xml.etree',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\xml\\etree\\__init__.py',
+   'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\CGDM\\AppData\\Local\\Programs\\Python\\Python37\\lib\\zipfile.py',
+   'PYMODULE')])
